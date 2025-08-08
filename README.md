@@ -50,7 +50,7 @@ This project successfully demonstrated how data-driven pricing strategies can si
 - Quantify the impact of competitor pricing, confirming that competitive dynamics are a major driver of customer purchasing behavior.
 - Highlight the importance of seasonality, with certain categories showing predictable peaks and troughs in demand.
 
-# Key Business Insights:#
+# Key Business Insights:
 
 - Optimal Pricing Window – For many categories, profit peaked at higher-than-current price levels, indicating potential to increase margins without major volume loss.
 - Competitor Sensitivity – Products with closer substitutes were more sensitive to competitor price changes, requiring more agile pricing strategies.
